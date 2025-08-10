@@ -259,3 +259,4 @@ const styles = {
     borderRadius: 6,
     marginBottom: 8
   }
+}
